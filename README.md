@@ -1,4 +1,4 @@
-# frontend-maven-plugin
+# frontend-maven-plugin\
 
 [![Build](https://github.com/eirslett/frontend-maven-plugin/actions/workflows/main.yml/badge.svg)](https://github.com/eirslett/frontend-maven-plugin/actions/workflows/main.yml)
 ![Maven Central Version](https://img.shields.io/maven-central/v/com.github.eirslett/frontend-maven-plugin)
