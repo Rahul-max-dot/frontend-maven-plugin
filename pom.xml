@@ -137,7 +137,7 @@
                         <execution>
                             <id>attach-sources</id>
                             <goals>
-                                <goal>war-no-fork</goal>
+                                <goal>jar-no-fork</goal>
                             </goals>
                         </execution>
                     </executions>
